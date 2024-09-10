@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"esercizi_oop.basic","c":"ClickCounter","l":"click()"},{"p":"esercizi_oop.basic","c":"ClickCounter","l":"ClickCounter()","u":"%3Cinit%3E()"},{"p":"esercizi_oop.basic","c":"ClickCounter","l":"getValue()"},{"p":"esercizi_oop.basic","c":"ClickCounter","l":"reset()"},{"p":"esercizi_oop.basic","c":"ClickCounter","l":"undo()"}];updateSearchResults();
